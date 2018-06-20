@@ -1,0 +1,10 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+94:D9:B3:96:E7:57, 2018-06-20 08:44:01, 2018-06-20 08:44:17, 11, 405, WPA2 WPA, CCMP,PSK, -40,       84,     1595,   0.  0.  0.  0,  12, TP-LINK_E757, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+D4:1A:3F:A8:F8:A5, 2018-06-20 08:44:01, 2018-06-20 08:44:17, -72,      914, 94:D9:B3:96:E7:57,
+10:B1:F8:62:73:6E, 2018-06-20 08:44:02, 2018-06-20 08:44:04, -54,        7, 94:D9:B3:96:E7:57,
+E4:5A:A2:57:03:CC, 2018-06-20 08:44:01, 2018-06-20 08:44:11, -52,       10, 94:D9:B3:96:E7:57,
+2C:5B:B8:C0:5F:39, 2018-06-20 08:44:01, 2018-06-20 08:44:08, -48,      648, 94:D9:B3:96:E7:57,
+

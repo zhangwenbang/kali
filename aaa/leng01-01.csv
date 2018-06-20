@@ -1,0 +1,7 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+48:7D:2E:9F:1B:53, 2018-06-19 08:20:52, 2018-06-19 08:21:53,  6, 405, WPA2 WPA, CCMP,PSK, -14,       43,       14,   0.  0.  0.  0,  12, TP-LINK_1B53, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+08:4A:CF:0F:B4:E3, 2018-06-19 08:20:52, 2018-06-19 08:21:52, -62,       39, 48:7D:2E:9F:1B:53,
+
